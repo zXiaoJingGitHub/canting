@@ -1,0 +1,17 @@
+.center .right .input-group textarea{
+	background: #212121;
+	color: #fff;
+	border-radius: 5px;
+}
+.center .right .input-group{
+	margin: 10px 0px;
+}
+.center .right .input-group .btn{
+	color: #fff;
+	background: #212121;
+}
+.center .right .input-group .form-control{
+	background: #212121;
+	color: #fff;
+	
+}
